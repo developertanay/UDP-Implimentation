@@ -1,4 +1,3 @@
-````markdown
 # 💬 UDP Chat — Simple Peer-to-Peer Messaging Tool
 
 A lightweight, no-dependency chat program built with **Python and UDP sockets**.  
@@ -21,7 +20,6 @@ Open **two terminal windows** in the same folder.
 **In the first terminal (Receiver):**
 ```bash
 python udp_chat.py
-````
 
 Choose **1** for RECEIVE mode.
 
