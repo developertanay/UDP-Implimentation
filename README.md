@@ -39,18 +39,14 @@ Type a message in the sender window — it will appear in the receiver window in
 
 **On Computer A (Receiver):**
 
-```bash
 python udp_chat.py
-```
 
-Choose **1** for RECEIVE mode
-Note your **IP address** (e.g., `192.168.1.5`).
+Choose **1** for RECEIVE mode.
 
-**On Computer B (Sender):**
+**In the second terminal (Sender):**
 
 ```bash
 python udp_chat.py
-```
 
 Choose **2** for SEND mode
 When asked, enter **Computer A’s IP address**.
