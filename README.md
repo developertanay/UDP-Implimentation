@@ -56,8 +56,3 @@ A dead-simple way to send messages between computers using Python. No setup, no 
 ```
 You: Hello there!
 ```
-
-
-#DEMO
-<img width="866" height="746" alt="image" src="https://github.com/user-attachments/assets/ae9647d6-5ff6-41d0-a3c9-fdcabfd99180" />
-<img width="1525" height="673" alt="image" src="https://github.com/user-attachments/assets/03b61109-0c20-44de-896c-62dcd7a9775e" />
