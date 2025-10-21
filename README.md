@@ -48,7 +48,7 @@ Choose **1** for RECEIVE mode.
 ```bash
 python udp_chat.py
 ```
-Choose **2** for SEND mode
+Choose **2** for SEND mode.
 When asked, enter **Computer A’s IP address( Write 'localhost' for the same machine)**.
 
 Start chatting across your local network!
