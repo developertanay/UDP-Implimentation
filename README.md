@@ -91,6 +91,3 @@ You: Hello there!
 * Works only on LAN (Local Network)
 * UDP is **connectionless**, meaning messages might be missed if the receiver isn’t listening
 * Great for learning basic **network programming** and **socket communication**
-
-```
-```
