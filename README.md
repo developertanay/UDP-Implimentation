@@ -20,7 +20,7 @@ Open **two terminal windows** in the same folder.
 **In the first terminal (Receiver):**
 ```bash
 python udp_chat.py
-
+```
 Choose **1** for RECEIVE mode.
 
 **In the second terminal (Sender):**
